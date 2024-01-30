@@ -38,6 +38,8 @@ I'm Alexis, a french  IT student passionate about cybersecurity, and programming
 ## Alexis-Boizard-GitHub: ~ $ ps -a
 
 ![](https://img.shields.io/badge/boursewatcher-e31e3e)
+![](https://img.shields.io/badge/beer-rate-e31e3e)
+
 
 
 
