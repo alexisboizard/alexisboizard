@@ -10,7 +10,7 @@ I'm Alexis, a french  IT student passionate about cybersecurity, and programming
 ![Java](https://img.shields.io/badge/java-e31e3e.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-e31e3e?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-e31e3e?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Android-e31e3e?style=for-the-badge&logo=flutter&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-e31e3e?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### Website
 ![HTML](https://img.shields.io/badge/html-e31e3e?style=for-the-badge&logo=html5&&logoColor=white)
